@@ -8,3 +8,4 @@ arrastar o rato para a esquerda ou para a direita  para rodar o personagem
 botão esquerdo do rato ou a tecla "w" para andar para a frente
 
 Botão direito ou a tecla "s" para andar para trás.
+se queres ver o codigo fonte tens que baixar as texturas e colocar na mesma pasta onde está o arquivo .blend
